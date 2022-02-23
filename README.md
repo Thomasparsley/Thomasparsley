@@ -1,12 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-🔭 I’m currently working on
-- [ ] SC2 Bot
-- [ ] bachelor-thesis
-- [ ] own website
+## 🔭 I’m currently working on
+- SC2 Bot
+- bachelor-thesis
+- own website
 
-📫 How to reach me:
+## 📫 How to reach me
 <email@thomasparsley.cz>
+
+## ⚡ Fun fact
 
 <div>
 
