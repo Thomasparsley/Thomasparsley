@@ -5,6 +5,12 @@
 - bachelor-thesis
 - own website
 
+## 💾 Projects
+- https://www.sdhkrasice.cz/
+- https://odlprostejov.cz/
+- https://thomasparsley.cz/
+- https://thomasparsley.cz/tarcast/
+
 ## 📫 How to reach me
 <email@thomasparsley.cz>
 
