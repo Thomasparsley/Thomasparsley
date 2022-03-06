@@ -7,9 +7,9 @@
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
-- https://odlprostejov.cz/
-- https://thomasparsley.cz/
-- https://thomasparsley.cz/tarcast/
+- https://www.odlprostejov.cz/
+- https://www.thomasparsley.cz/
+- https://www.thomasparsley.cz/tarcast/
 
 ## 📫 How to reach me
 <email@thomasparsley.cz>
