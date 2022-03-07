@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- SC2 Bot
 - bachelor-thesis
 - own website
+- ~~SC2 Bot~~
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
