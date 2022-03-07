@@ -9,7 +9,6 @@
 - https://www.sdhkrasice.cz/
 - https://www.odlprostejov.cz/
 - https://www.thomasparsley.cz/
-- https://thomasparsley.cz/tarcast/
 
 ## 📫 How to reach me
 <email@thomasparsley.cz>
