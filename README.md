@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 - bachelor-thesis
 - own website
+- binomial heap in GO
 - ~~SC2 Bot~~
 
 ## 💾 Projects
