@@ -4,6 +4,7 @@
 - bachelor-thesis
 - own website
 - binomial heap in GO
+- red black trees in GO
 - ~~SC2 Bot~~
 
 ## 💾 Projects
