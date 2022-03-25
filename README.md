@@ -5,6 +5,7 @@
 - own website
 - binomial heap in GO
 - red black trees in GO
+- GO website utils packages
 - ODL Prostějov website V3.0
 - ~~SC2 Bot~~
 
