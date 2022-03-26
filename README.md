@@ -7,6 +7,7 @@
 - red black trees in GO
 - GO website utils packages
 - ODL Prostějov website V3.0
+- ECTO - Generic struct over GORM
 - ~~SC2 Bot~~
 
 ## 💾 Projects
