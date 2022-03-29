@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 - bachelor-thesis
 - own website
+- generic struct (B-Tree) in GO 
 - binomial heap in GO
 - red black trees in GO
 - ODL Prostějov website V3.0
