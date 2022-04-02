@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
+- SC2 Bot V2
 - bachelor-thesis
 - own website
 - generic struct (B-Tree) in GO 
