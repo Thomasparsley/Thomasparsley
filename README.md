@@ -9,6 +9,8 @@
 - red black trees in GO
 - ODL Prostějov website V3.0
 - ECTO - Generic struct over GORM
+- INF UPOL Discord bot
+- DPLL
 - ~~SC2 Bot~~
 
 ## 💾 Projects
