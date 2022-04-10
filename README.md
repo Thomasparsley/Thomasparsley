@@ -4,14 +4,11 @@
 - SC2 Bot V2
 - bachelor-thesis
 - own website
-- generic struct (B-Tree) in GO 
 - binomial heap in GO
 - red black trees in GO
 - ODL Prostějov website V3.0
-- ECTO - Generic struct over GORM
 - INF UPOL Discord bot
 - DPLL
-- ~~SC2 Bot~~
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
