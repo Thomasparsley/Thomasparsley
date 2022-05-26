@@ -6,7 +6,6 @@
 - own website
 - binomial heap in GO
 - red black trees in GO
-- ODL Prostějov website V3.0
 - INF UPOL Discord bot
 - DPLL
 
