@@ -4,7 +4,6 @@
 - SC2 Bot V2
 - bachelor-thesis
 - own website
-- binomial heap in GO
 - red black trees in GO
 - INF UPOL Discord bot
 - DPLL
