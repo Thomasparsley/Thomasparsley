@@ -4,7 +4,6 @@
 - SC2 Bot V2
 - bachelor-thesis
 - own website
-- red black trees in GO
 - INF UPOL Discord bot
 - DPLL
 
