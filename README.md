@@ -5,7 +5,6 @@
 - bachelor-thesis
 - own website
 - INF UPOL Discord bot
-- DPLL
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
