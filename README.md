@@ -3,7 +3,6 @@
 ## 🔭 I’m currently working on
 - SC2 Bot V2
 - bachelor-thesis
-- own website
 - INF UPOL Discord bot
 
 ## 💾 Projects
