@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- SC2 Bot V2
 - bachelor-thesis
 
 ## 💾 Projects
