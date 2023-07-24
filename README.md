@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- bachelor-thesis
+- firesport ng
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
