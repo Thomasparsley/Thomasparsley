@@ -2,6 +2,13 @@
 
 ## 🔭 I’m currently working on
 - firesport ng
+- is
+- odl next
+- own cli toolset
+
+## 🌱 I’m currently learning
+- Angular
+- Bun.sh
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
