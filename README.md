@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- firesport ng
-- is
-- odl next
-- own cli toolset
+- firesport next
+- integray
 
 ## 🌱 I’m currently learning
 - Angular
 - Bun.sh
+- Rust
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
 - https://www.odlprostejov.cz/
 - https://www.thomasparsley.cz/
+- https://integray.com/
 
 ## 📫 How to reach me
 <email@thomasparsley.cz>
