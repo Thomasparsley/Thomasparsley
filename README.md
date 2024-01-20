@@ -6,7 +6,6 @@
 
 ## 🌱 I’m currently learning
 - Angular
-- Bun.sh
 - Rust
 
 ## 💾 Projects
