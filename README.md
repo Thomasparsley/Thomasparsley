@@ -2,17 +2,15 @@
 
 ## 🔭 I’m currently working on
 - firesport next
-- integray
+- odl v5
 
 ## 🌱 I’m currently learning
-- Angular
 - Rust
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
 - https://www.odlprostejov.cz/
 - https://www.thomasparsley.cz/
-- https://integray.com/
 
 ## 📫 How to reach me
 <email@thomasparsley.cz>
