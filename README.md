@@ -1,11 +1,16 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- firesport next
 - odl v5
+- vrpc (Remote procedure call, where procedures are stored in vector)
+- distributed rust job worker
+- firesport next
 
 ## 🌱 I’m currently learning
 - Rust
+- FastAPI
+- RPC
+- Distributed WebSocket with Redis PubSub
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
