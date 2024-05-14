@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 - odl v5
-- vrpc (Remote procedure call, where procedures are stored in vector)
+- vrpc (Remote procedure call rust api, where procedures are stored in vector)
 - distributed rust job worker
 - firesport next
 
@@ -10,7 +10,7 @@
 - Rust
 - FastAPI
 - RPC
-- Distributed WebSocket with Redis PubSub
+- Distributed WebSocket with Redis PubSub / RabbitMQ
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
