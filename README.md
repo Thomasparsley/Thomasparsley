@@ -2,14 +2,13 @@
 
 ## 🔭 I’m currently working on
 - odl v5
-- vrpc (Remote procedure call rust api, where procedures are stored in vector)
-- distributed rust job worker
 - firesport next
 
 ## 🌱 I’m currently learning
 - Rust
 - FastAPI
 - RPC
+- dotnet8
 - Distributed WebSocket with Redis PubSub / RabbitMQ
 
 ## 💾 Projects
