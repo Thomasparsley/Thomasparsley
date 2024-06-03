@@ -5,11 +5,10 @@
 - firesport next
 
 ## 🌱 I’m currently learning
-- Rust
-- FastAPI
-- RPC
-- dotnet8
+- dotnet8/9
 - Distributed WebSocket with Redis PubSub / RabbitMQ
+- Distributed Job worker with RabbitMQ
+- Project architecture
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
