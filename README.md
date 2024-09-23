@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on
-- odl v5
 - firesport next
+- odl v5
 
 ## 🌱 I’m currently learning
-- dotnet8/9
-- Distributed WebSocket with Redis PubSub / RabbitMQ
-- Distributed Job worker with RabbitMQ
+- dotnet89
 - Project architecture
 
 ## 💾 Projects
