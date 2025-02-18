@@ -5,8 +5,10 @@
 - odl v5
 
 ## 🌱 I’m currently learning
-- dotnet89
+- dotnet9
 - Project architecture
+- Dotnet source generators
+- how to design libraries
 
 ## 💾 Projects
 - https://www.sdhkrasice.cz/
