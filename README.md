@@ -2,7 +2,6 @@
 
 ## 🔭 I’m currently working on
 - firesport next
-- crewcost
 
 ## 🌱 I’m currently learning
 - Project architecture
