@@ -2,10 +2,12 @@
 
 ## 🔭 I’m currently working on
 - firesport next
+- iOS app
 
 ## 🌱 I’m currently learning
 - Project architecture
 - how to design libraries
+- iOS app
 
 ## 💾 Projects
 - https://firesport.cz
