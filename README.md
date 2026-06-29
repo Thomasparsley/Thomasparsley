@@ -8,6 +8,7 @@
 - Project architecture
 - how to design libraries
 - iOS app
+- lightweight observability backend
 
 ## 💾 Projects
 - https://firesport.cz
